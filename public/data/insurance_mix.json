@@ -1,0 +1,22 @@
+[
+  {
+    "insurance": "No Insurance",
+    "claim_count": "32054",
+    "avg_amount": 111659.06423535338
+  },
+  {
+    "insurance": "Private",
+    "claim_count": "34289",
+    "avg_amount": 226913.14412785624
+  },
+  {
+    "insurance": "Medicare/Medicaid",
+    "claim_count": "10882",
+    "avg_amount": 85152.68048152905
+  },
+  {
+    "insurance": "Workers Compensation",
+    "claim_count": "1985",
+    "avg_amount": 94698.07254408048
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "specialty": "Family Practice",
+    "claim_count": "11436",
+    "avg_amount": 213266.38903462677,
+    "median_amount": 118767,
+    "avg_severity": 5.272822665267619
+  },
+  {
+    "specialty": "Pathology",
+    "claim_count": "714",
+    "avg_amount": 106068.29131652658,
+    "median_amount": 106488,
+    "avg_severity": 4.357142857142857
+  },
+  {
+    "specialty": "Neurology/Neurosurgery",
+    "claim_count": "4737",
+    "avg_amount": 241276.95271268714,
+    "median_amount": 123497,
+    "avg_severity": 5.605446485117182
+  },
+  {
+    "specialty": "Plastic Surgeon",
+    "claim_count": "1364",
+    "avg_amount": 102571.22873900278,
+    "median_amount": 103019,
+    "avg_severity": 4.515395894428142
+  },
+  {
+    "specialty": "Occupational Medicine",
+    "claim_count": "725",
+    "avg_amount": 105521.77655172416,
+    "median_amount": 107646,
+    "avg_severity": 4.158620689655173
+  },
+  {
+    "specialty": "Anesthesiology",
+    "claim_count": "8732",
+    "avg_amount": 60398.84963353193,
+    "median_amount": 37538,
+    "avg_severity": 3.771415483279889
+  },
+  {
+    "specialty": "Thoracic Surgery",
+    "claim_count": "664",
+    "avg_amount": 96089.14156626495,
+    "median_amount": 93622,
+    "avg_severity": 4.859939759036146
+  },
+  {
+    "specialty": "OBGYN",
+    "claim_count": "8876",
+    "avg_amount": 219075.2513519607,
+    "median_amount": 133083,
+    "avg_severity": 4.88316809373591
+  },
+  {
+    "specialty": "Emergency Medicine",
+    "claim_count": "4676",
+    "avg_amount": 145732.3569289992,
+    "median_amount": 70649,
+    "avg_severity": 4.670230966638147
+  },
+  {
+    "specialty": "Ophthamology",
+    "claim_count": "3289",
+    "avg_amount": 85673.85284280933,
+    "median_amount": 80128,
+    "avg_severity": 4.385831559744591
+  },
+  {
+    "specialty": "Radiology",
+    "claim_count": "1979",
+    "avg_amount": 45372.997473471485,
+    "median_amount": 32453,
+    "avg_severity": 3.791308741788785
+  },
+  {
+    "specialty": "Dermatology",
+    "claim_count": "1384",
+    "avg_amount": 354753.3294797692,
+    "median_amount": 202221,
+    "avg_severity": 5.726156069364164
+  },
+  {
+    "specialty": "Urological Surgery",
+    "claim_count": "2027",
+    "avg_amount": 276582.6901825355,
+    "median_amount": 162435,
+    "avg_severity": 5.234829797730626
+  },
+  {
+    "specialty": "Internal Medicine",
+    "claim_count": "5223",
+    "avg_amount": 143943.53264407392,
+    "median_amount": 81629,
+    "avg_severity": 4.60099559640053
+  },
+  {
+    "specialty": "Cardiology",
+    "claim_count": "2659",
+    "avg_amount": 94159.33847311027,
+    "median_amount": 93012,
+    "avg_severity": 4.924407672057164
+  },
+  {
+    "specialty": "Resident",
+    "claim_count": "1983",
+    "avg_amount": 95521.42763489674,
+    "median_amount": 94886,
+    "avg_severity": 4.763993948562796
+  },
+  {
+    "specialty": "Orthopedic Surgery",
+    "claim_count": "7272",
+    "avg_amount": 134362.50701320035,
+    "median_amount": 91330,
+    "avg_severity": 5.023514851485161
+  },
+  {
+    "specialty": "General Surgery",
+    "claim_count": "9412",
+    "avg_amount": 132403.39449638725,
+    "median_amount": 102417,
+    "avg_severity": 4.845622609434771
+  },
+  {
+    "specialty": "Physical Medicine",
+    "claim_count": "642",
+    "avg_amount": 99081.07476635528,
+    "median_amount": 98631,
+    "avg_severity": 4.783489096573207
+  },
+  {
+    "specialty": "Pediatrics",
+    "claim_count": "1416",
+    "avg_amount": 340067.63983050827,
+    "median_amount": 278777,
+    "avg_severity": 5.266949152542384
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "insurance": "Medicare/Medicaid",
+    "severity_bucket": "Medium (4-6)",
+    "claim_count": "4007",
+    "avg_amount": 91505.02345894658,
+    "median_amount": 89836
+  },
+  {
+    "insurance": "Medicare/Medicaid",
+    "severity_bucket": "Low (1-3)",
+    "claim_count": "4986",
+    "avg_amount": 74952.98957079789,
+    "median_amount": 57967
+  },
+  {
+    "insurance": "Medicare/Medicaid",
+    "severity_bucket": "High (7-10)",
+    "claim_count": "1889",
+    "avg_amount": 98599.91212281649,
+    "median_amount": 99691
+  },
+  {
+    "insurance": "No Insurance",
+    "severity_bucket": "Medium (4-6)",
+    "claim_count": "10974",
+    "avg_amount": 112812.27893202082,
+    "median_amount": 86981
+  },
+  {
+    "insurance": "No Insurance",
+    "severity_bucket": "Low (1-3)",
+    "claim_count": "14244",
+    "avg_amount": 71331.83930075805,
+    "median_amount": 44177
+  },
+  {
+    "insurance": "No Insurance",
+    "severity_bucket": "High (7-10)",
+    "claim_count": "6836",
+    "avg_amount": 193836.596986542,
+    "median_amount": 112748
+  },
+  {
+    "insurance": "Private",
+    "severity_bucket": "High (7-10)",
+    "claim_count": "10987",
+    "avg_amount": 346077.95203422225,
+    "median_amount": 267996
+  },
+  {
+    "insurance": "Private",
+    "severity_bucket": "Medium (4-6)",
+    "claim_count": "12944",
+    "avg_amount": 208423.95588689717,
+    "median_amount": 122384
+  },
+  {
+    "insurance": "Private",
+    "severity_bucket": "Low (1-3)",
+    "claim_count": "10358",
+    "avg_amount": 123617.17078586583,
+    "median_amount": 99014
+  },
+  {
+    "insurance": "Workers Compensation",
+    "severity_bucket": "Low (1-3)",
+    "claim_count": "668",
+    "avg_amount": 95276.81736526935,
+    "median_amount": 92560
+  },
+  {
+    "insurance": "Workers Compensation",
+    "severity_bucket": "Medium (4-6)",
+    "claim_count": "774",
+    "avg_amount": 93814.77260981922,
+    "median_amount": 90230
+  },
+  {
+    "insurance": "Workers Compensation",
+    "severity_bucket": "High (7-10)",
+    "claim_count": "543",
+    "avg_amount": 95245.16758747703,
+    "median_amount": 96157
+  }
+]

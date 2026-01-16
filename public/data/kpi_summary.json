@@ -1,0 +1,13 @@
+[
+  {
+    "total_claims": "79210",
+    "avg_amount": 157484.55481631105,
+    "median_amount": 98095,
+    "avg_severity": 4.799659133947758,
+    "claims_with_private_attorney": "52349",
+    "pct_private_attorney": 0.6608887766696124,
+    "bad_amount_rows": "0",
+    "bad_age_rows": "0",
+    "bad_severity_rows": "0"
+  }
+]
